@@ -1,0 +1,16 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Pastas do Godot
+.import/
+.godot/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.mono/
+*.sconsign
+
+# Exportações de build
+export.cfg
